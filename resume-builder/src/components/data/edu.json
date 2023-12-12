@@ -1,0 +1,1259 @@
+[
+    
+    {
+        "value": "SSLC",
+        "label": "SSLC"
+    }
+    ,{
+        "value": "HSC",
+        "label": "HSC"
+      },
+      {
+        "value": "B.SC",
+        "label": "B.SC"
+      },{
+        "value": "B.COM",
+        "label": "B.COM"
+      },
+    {
+      "value": "Aerospace Engineering",
+      "label": "Aerospace Engineering"
+    },
+    {
+      "value": "Biomedical Engineering",
+      "label": "Biomedical Engineering"
+    },
+    {
+      "value": "Computer Science and Business Systems",
+      "label": "Computer Science and Business Systems"
+     },
+    {
+      "value": "Chemical Engineering",
+      "label": "Chemical Engineering"
+    },
+    {
+      "value": "Civil Engineering",
+      "label": "Civil Engineering"
+    },
+    {
+      "value": "Computer Engineering",
+      "label": "Computer Engineering"
+    },
+    {
+      "value": "Electrical Engineering",
+      "label": "Electrical Engineering"
+    },
+    {
+      "value": "Environmental Engineering",
+      "label": "Environmental Engineering"
+    },
+    {
+      "value": "Mechanical Engineering",
+      "label": "Mechanical Engineering"
+    },
+    {
+      "value": "Materials Engineering",
+      "label": "Materials Engineering"
+    },
+    {
+      "value": "Industrial Engineering",
+      "label": "Industrial Engineering"
+    },
+    {
+      "value": "Software Engineering",
+      "label": "Software Engineering"
+    },
+    {
+      "value": "Petroleum Engineering",
+      "label": "Petroleum Engineering"
+    },
+    {
+      "value": "Nuclear Engineering",
+      "label": "Nuclear Engineering"
+    },
+    {
+      "value": "Biomechanical Engineering",
+      "label": "Biomechanical Engineering"
+    },
+    {
+      "value": "Systems Engineering",
+      "label": "Systems Engineering"
+    },
+    {
+      "value": "Structural Engineering",
+      "label": "Structural Engineering"
+    },
+    {
+      "value": "Telecommunications Engineering",
+      "label": "Telecommunications Engineering"
+    },
+    {
+      "value": "Agricultural Engineering",
+      "label": "Agricultural Engineering"
+    },
+    {
+      "value": "Automotive Engineering",
+      "label": "Automotive Engineering"
+    },
+    {
+      "value": "Geological Engineering",
+      "label": "Geological Engineering"
+    },
+    {
+      "value": "Marine Engineering",
+      "label": "Marine Engineering"
+    },
+    {
+      "value": "Systems Design Engineering",
+      "label": "Systems Design Engineering"
+    },
+    {
+      "value": "Avionics Engineering",
+      "label": "Avionics Engineering"
+    },
+    {
+      "value": "Robotics Engineering",
+      "label": "Robotics Engineering"
+    },
+    {
+      "value": "Renewable Energy Engineering",
+      "label": "Renewable Energy Engineering"
+    },
+    {
+      "value": "Textile Engineering",
+      "label": "Textile Engineering"
+    },
+    {
+      "value": "Ocean Engineering",
+      "label": "Ocean Engineering"
+    },
+    {
+      "value": "Railway Engineering",
+      "label": "Railway Engineering"
+    },
+    {
+      "value": "Geotechnical Engineering",
+      "label": "Geotechnical Engineering"
+    },
+    {
+      "value": "Fire Protection Engineering",
+      "label": "Fire Protection Engineering"
+    },
+    {
+      "value": "Environmental Management",
+      "label": "Environmental Management"
+    },
+    {
+      "value": "Computer Systems Engineering",
+      "label": "Computer Systems Engineering"
+    },
+    {
+      "value": "Biotechnology Engineering",
+      "label": "Biotechnology Engineering"
+    },
+    {
+      "value": "Cybersecurity Engineering",
+      "label": "Cybersecurity Engineering"
+    },
+    {
+      "value": "Agronomy Engineering",
+      "label": "Agronomy Engineering"
+    },
+    {
+      "value": "Architectural Engineering",
+      "label": "Architectural Engineering"
+    },
+    {
+      "value": "Control Systems Engineering",
+      "label": "Control Systems Engineering"
+    },
+    {
+      "value": "Transportation Engineering",
+      "label": "Transportation Engineering"
+    },
+    {
+      "value": "Photonics Engineering",
+      "label": "Photonics Engineering"
+    },
+    {
+      "value": "Water Resources Engineering",
+      "label": "Water Resources Engineering"
+    },
+    {
+      "value": "Nanoengineering",
+      "label": "Nanoengineering"
+    },
+    {
+      "value": "Renewable Energy Systems",
+      "label": "Renewable Energy Systems"
+    },
+    {
+      "value": "Metallurgical Engineering",
+      "label": "Metallurgical Engineering"
+    },
+    {
+      "value": "Nanotechnology Engineering",
+      "label": "Nanotechnology Engineering"
+    },
+    {
+      "value": "Energy Engineering",
+      "label": "Energy Engineering"
+    },
+    {
+      "value": "Civil and Environmental Engineering",
+      "label": "Civil and Environmental Engineering"
+    },
+    {
+      "value": "Fire Safety Engineering",
+      "label": "Fire Safety Engineering"
+    },
+    {
+      "value": "Bioprocess Engineering",
+      "label": "Bioprocess Engineering"
+    },
+    {
+      "value": "Environmental Science and Engineering",
+      "label": "Environmental Science and Engineering"
+    },
+    {
+      "value": "Computer and Network Engineering",
+      "label": "Computer and Network Engineering"
+    },
+    {
+      "value": "Petroleum and Natural Gas Engineering",
+      "label": "Petroleum and Natural Gas Engineering"
+    },
+    {
+      "value": "Agricultural and Biological Engineering",
+      "label": "Agricultural and Biological Engineering"
+    },
+    {
+      "value": "Mechanical and Aerospace Engineering",
+      "label": "Mechanical and Aerospace Engineering"
+    },
+    {
+      "value": "Electrical and Computer Engineering",
+      "label": "Electrical and Computer Engineering"
+    },
+    {
+      "value": "Environmental and Water Resources Engineering",
+      "label": "Environmental and Water Resources Engineering"
+    },
+    {
+      "value": "Computer Science and Engineering",
+      "label": "Computer Science and Engineering"
+    },
+    {
+      "value": "Manufacturing Engineering",
+      "label": "Manufacturing Engineering"
+    },
+    {
+      "value": "Computer and Information Engineering",
+      "label": "Computer and Information Engineering"
+    },
+    {
+      "value": "Space Systems Engineering",
+      "label": "Space Systems Engineering"
+    },
+    {
+      "value": "Nuclear Science and Engineering",
+      "label": "Nuclear Science and Engineering"
+    },
+    {
+      "value": "Construction Engineering",
+      "label": "Construction Engineering"
+    },
+    {
+      "value": "Mining Engineering",
+      "label": "Mining Engineering"
+    },
+    {
+      "value": "Electronics and Communication Engineering",
+      "label": "Electronics and Communication Engineering"
+    },
+    {
+      "value": "Mechanical and Mechatronic Engineering",
+      "label": "Mechanical and Mechatronic Engineering"
+    },
+    {
+      "value": "Software and Systems Engineering",
+      "label": "Software and Systems Engineering"
+    },
+    {
+      "value": "Petroleum and Energy Engineering",
+      "label": "Petroleum and Energy Engineering"
+    },
+    {
+      "value": "Automotive Systems Engineering",
+      "label": "Automotive Systems Engineering"
+    },
+    {
+      "value": "Engineering Management",
+      "label": "Engineering Management"
+    },
+    {
+      "value": "Infrastructure Engineering",
+      "label": "Infrastructure Engineering"
+    },
+    {
+      "value": "Engineering Physics",
+      "label": "Engineering Physics"
+    },
+    {
+      "value": "Engineering Mathematics",
+      "label": "Engineering Mathematics"
+    },
+    {
+      "value": "Engineering Chemistry",
+      "label": "Engineering Chemistry"
+    },
+    {
+      "value": "Engineering Biology",
+      "label": "Engineering Biology"
+    },
+    {
+      "value": "Engineering Geology",
+      "label": "Engineering Geology"
+    },
+    {
+      "value": "Engineering Economics",
+      "label": "Engineering Economics"
+    },
+    {
+      "value": "Engineering Ethics",
+      "label": "Engineering Ethics"
+    },
+    {
+      "value": "Engineering Law",
+      "label": "Engineering Law"
+    },
+    {
+      "value": "Engineering History",
+      "label": "Engineering History"
+    },
+    {
+      "value": "Engineering Education",
+      "label": "Engineering Education"
+    },
+    {
+      "value": "Engineering Psychology",
+      "label": "Engineering Psychology"
+    },
+    {
+      "value": "Engineering Sociology",
+      "label": "Engineering Sociology"
+    },
+    {
+      "value": "Engineering Philosophy",
+      "label": "Engineering Philosophy"
+    },
+    {
+      "value": "Engineering Anthropology",
+      "label": "Engineering Anthropology"
+    },
+    {
+      "value": "Engineering Literature",
+      "label": "Engineering Literature"
+    },
+    {
+      "value": "Engineering Arts",
+      "label": "Engineering Arts"
+    },
+    {
+      "value": "Engineering Music",
+      "label": "Engineering Music"
+    },
+    {
+      "value": "Engineering Theater",
+      "label": "Engineering Theater"
+    },
+    {
+      "value": "Engineering Dance",
+      "label": "Engineering Dance"
+    },
+    {
+      "value": "Engineering Film",
+      "label": "Engineering Film"
+    },
+    {
+      "value": "Engineering Photography",
+      "label": "Engineering Photography"
+    },
+    {
+      "value": "Engineering Painting",
+      "label": "Engineering Painting"
+    },
+    {
+      "value": "Engineering Sculpture",
+      "label": "Engineering Sculpture"
+    },
+    {
+      "value": "Engineering Architecture",
+      "label": "Engineering Architecture"
+    },
+    {
+      "value": "Engineering Literature",
+      "label": "Engineering Literature"
+    },
+    {
+      "value": "Engineering Design",
+      "label": "Engineering Design"
+    },
+    {
+      "value": "Engineering Innovation",
+      "label": "Engineering Innovation"
+    },
+    {
+      "value": "Engineering Entrepreneurship",
+      "label": "Engineering Entrepreneurship"
+    },
+    {
+      "value": "Engineering Leadership",
+      "label": "Engineering Leadership"
+    },
+    {
+      "value": "Engineering Creativity",
+      "label": "Engineering Creativity"
+    },
+    {
+      "value": "Engineering Critical Thinking",
+      "label": "Engineering Critical Thinking"
+    },
+    {
+      "value": "Engineering Problem Solving",
+      "label": "Engineering Problem Solving"
+    },
+    {
+      "value": "Engineering Project Management",
+      "label": "Engineering Project Management"
+    },
+    {
+      "value": "Engineering Research",
+      "label": "Engineering Research"
+    },
+    {
+      "value": "Engineering Development",
+      "label": "Engineering Development"
+    },
+    {
+      "value": "Engineering Analysis",
+      "label": "Engineering Analysis"
+    },
+    {
+      "value": "Engineering Optimization",
+      "label": "Engineering Optimization"
+    },
+    {
+      "value": "Engineering Simulation",
+      "label": "Engineering Simulation"
+    },
+    {
+      "value": "Engineering Modeling",
+      "label": "Engineering Modeling"
+    },
+    {
+      "value": "Engineering Prototyping",
+      "label": "Engineering Prototyping"
+    },
+    {
+      "value": "Engineering Testing",
+      "label": "Engineering Testing"
+    },
+    {
+      "value": "Engineering Evaluation",
+      "label": "Engineering Evaluation"
+    },
+    {
+      "value": "Engineering Validation",
+      "label": "Engineering Validation"
+    },
+    {
+      "value": "Engineering Verification",
+      "label": "Engineering Verification"
+    },
+    {
+      "value": "Engineering Quality Assurance",
+      "label": "Engineering Quality Assurance"
+    },
+    {
+      "value": "Engineering Reliability",
+      "label": "Engineering Reliability"
+    },
+    {
+      "value": "Engineering Safety",
+      "label": "Engineering Safety"
+    },
+    {
+      "value": "Engineering Risk Management",
+      "label": "Engineering Risk Management"
+    },
+    {
+      "value": "Engineering Sustainability",
+      "label": "Engineering Sustainability"
+    },
+    {
+      "value": "Engineering Ethics",
+      "label": "Engineering Ethics"
+    },
+    {
+      "value": "Engineering Legal Compliance",
+      "label": "Engineering Legal Compliance"
+    },
+    {
+      "value": "Engineering Environmental Responsibility",
+      "label": "Engineering Environmental Responsibility"
+    },
+    {
+      "value": "Engineering Social Impact",
+      "label": "Engineering Social Impact"
+    },
+    {
+      "value": "Engineering Global Citizenship",
+      "label": "Engineering Global Citizenship"
+    },
+    {
+      "value": "Engineering Interdisciplinary Studies",
+      "label": "Engineering Interdisciplinary Studies"
+    },
+    {
+      "value": "Engineering Multidisciplinary Studies",
+      "label": "Engineering Multidisciplinary Studies"
+    },
+    {
+      "value": "Engineering Cross-Cultural Studies",
+      "label": "Engineering Cross-Cultural Studies"
+    },
+    {
+      "value": "Engineering History and Philosophy",
+      "label": "Engineering History and Philosophy"
+    },
+    {
+      "value": "Engineering Literature and Arts",
+      "label": "Engineering Literature and Arts"
+    },
+    {
+      "value": "Engineering Communication",
+      "label": "Engineering Communication"
+    },
+    {
+      "value": "Engineering Technical Writing",
+      "label": "Engineering Technical Writing"
+    },
+    {
+      "value": "Engineering Public Speaking",
+      "label": "Engineering Public Speaking"
+    },
+    {
+      "value": "Engineering Visual Design",
+      "label": "Engineering Visual Design"
+    },
+    {
+      "value": "Engineering Audio Design",
+      "label": "Engineering Audio Design"
+    },
+    {
+      "value": "Engineering Video Production",
+      "label": "Engineering Video Production"
+    },
+    {
+      "value": "Engineering Graphic Design",
+      "label": "Engineering Graphic Design"
+    },
+    {
+      "value": "Engineering Web Design",
+      "label": "Engineering Web Design"
+    },
+    {
+      "value": "Engineering User Experience Design",
+      "label": "Engineering User Experience Design"
+    },
+    {
+      "value": "Engineering User Interface Design",
+      "label": "Engineering User Interface Design"
+    },
+    {
+      "value": "Engineering Game Design",
+      "label": "Engineering Game Design"
+    },
+    {
+      "value": "Engineering Animation",
+      "label": "Engineering Animation"
+    },
+    {
+      "value": "Engineering Virtual Reality",
+      "label": "Engineering Virtual Reality"
+    },
+    {
+      "value": "Engineering Augmented Reality",
+      "label": "Engineering Augmented Reality"
+    },
+    {
+      "value": "Engineering Motion Graphics",
+      "label": "Engineering Motion Graphics"
+    },
+    {
+      "value": "Engineering 3D Modeling",
+      "label": "Engineering 3D Modeling"
+    },
+    {
+      "value": "Engineering Simulation Modeling",
+      "label": "Engineering Simulation Modeling"
+    },
+    {
+      "value": "Engineering Data Visualization",
+      "label": "Engineering Data Visualization"
+    },
+    {
+      "value": "Engineering Human-Computer Interaction",
+      "label": "Engineering Human-Computer Interaction"
+    },
+    {
+      "value": "Engineering Virtual Environments",
+      "label": "Engineering Virtual Environments"
+    },
+    {
+      "value": "Engineering Simulated Worlds",
+      "label": "Engineering Simulated Worlds"
+    },
+    {
+      "value": "Engineering Digital Art",
+      "label": "Engineering Digital Art"
+    },
+    {
+      "value": "Engineering Computer Graphics",
+      "label": "Engineering Computer Graphics"
+    },
+    {
+      "value": "Engineering Computational Art",
+      "label": "Engineering Computational Art"
+    },
+    {
+      "value": "Engineering Creative Coding",
+      "label": "Engineering Creative Coding"
+    },
+    {
+      "value": "Engineering Interactive Media",
+      "label": "Engineering Interactive Media"
+    },
+    {
+      "value": "Engineering Sound Design",
+      "label": "Engineering Sound Design"
+    },
+    {
+      "value": "Engineering Music Production",
+      "label": "Engineering Music Production"
+    },
+    {
+      "value": "Engineering Film Production",
+      "label": "Engineering Film Production"
+    },
+    {
+      "value": "Engineering Photography Production",
+      "label": "Engineering Photography Production"
+    },
+    {
+      "value": "Engineering Theater Production",
+      "label": "Engineering Theater Production"
+    },
+    {
+      "value": "Engineering Dance Production",
+      "label": "Engineering Dance Production"
+    },
+    {
+      "value": "Engineering Fine Arts",
+      "label": "Engineering Fine Arts"
+    },
+    {
+      "value": "Engineering Literature and Music",
+      "label": "Engineering Literature and Music"
+    },
+    {
+      "value": "Engineering Visual Arts",
+      "label": "Engineering Visual Arts"
+    },
+    {
+      "value": "Engineering Audio Arts",
+      "label": "Engineering Audio Arts"
+    },
+    {
+      "value": "Engineering Video Arts",
+      "label": "Engineering Video Arts"
+    },
+    {
+      "value": "Engineering Film Arts",
+      "label": "Engineering Film Arts"
+    },
+    {
+      "value": "Engineering Photography Arts",
+      "label": "Engineering Photography Arts"
+    },
+    {
+      "value": "Engineering Theater Arts",
+      "label": "Engineering Theater Arts"
+    },
+    {
+      "value": "Engineering Dance Arts",
+      "label": "Engineering Dance Arts"
+    },
+    {
+      "value": "Engineering Literary Arts",
+      "label": "Engineering Literary Arts"
+    },
+    {
+      "value": "Engineering Visual Arts and Music",
+      "label": "Engineering Visual Arts and Music"
+    },
+    {
+      "value": "Engineering Audio and Video Arts",
+      "label": "Engineering Audio and Video Arts"
+    },
+    {
+      "value": "Engineering Film and Photography Arts",
+      "label": "Engineering Film and Photography Arts"
+    },
+    {
+      "value": "Engineering Theater and Dance Arts",
+      "label": "Engineering Theater and Dance Arts"
+    },
+    {
+      "value": "Engineering Literature and Fine Arts",
+      "label": "Engineering Literature and Fine Arts"
+    },
+    {
+      "value": "Engineering Visual and Audio Arts",
+      "label": "Engineering Visual and Audio Arts"
+    },
+    {
+      "value": "Engineering Film and Dance Arts",
+      "label": "Engineering Film and Dance Arts"
+    },
+    {
+      "value": "Engineering Computer Arts",
+      "label": "Engineering Computer Arts"
+    },
+    {
+      "value": "Engineering Multimedia Arts",
+      "label": "Engineering Multimedia Arts"
+    },
+    {
+      "value": "Engineering Game Arts",
+      "label": "Engineering Game Arts"
+    },
+    {
+      "value": "Engineering Virtual Arts",
+      "label": "Engineering Virtual Arts"
+    },
+    {
+      "value": "Engineering Augmented Arts",
+      "label": "Engineering Augmented Arts"
+    },
+    {
+      "value": "Engineering Motion Arts",
+      "label": "Engineering Motion Arts"
+    },
+    {
+      "value": "Engineering 3D Arts",
+      "label": "Engineering 3D Arts"
+    },
+    {
+      "value": "Engineering Simulation Arts",
+      "label": "Engineering Simulation Arts"
+    },
+    {
+      "value": "Engineering Data Arts",
+      "label": "Engineering Data Arts"
+    },
+    {
+      "value": "Engineering Interaction Arts",
+      "label": "Engineering Interaction Arts"
+    },
+    {
+      "value": "Engineering Virtual World Arts",
+      "label": "Engineering Virtual World Arts"
+    },
+    {
+      "value": "Engineering Digital Media Arts",
+      "label": "Engineering Digital Media Arts"
+    },
+    {
+      "value": "Engineering Computer Game Arts",
+      "label": "Engineering Computer Game Arts"
+    },
+    {
+      "value": "Engineering Virtual Reality Arts",
+      "label": "Engineering Virtual Reality Arts"
+    },
+    {
+      "value": "Engineering Augmented Reality Arts",
+      "label": "Engineering Augmented Reality Arts"
+    },
+    {
+      "value": "Engineering Motion Graphics Arts",
+      "label": "Engineering Motion Graphics Arts"
+    },
+    {
+      "value": "Engineering 3D Modeling Arts",
+      "label": "Engineering 3D Modeling Arts"
+    },
+    {
+      "value": "Engineering Simulation Modeling Arts",
+      "label": "Engineering Simulation Modeling Arts"
+    },
+    {
+      "value": "Engineering Data Visualization Arts",
+      "label": "Engineering Data Visualization Arts"
+    },
+    {
+      "value": "Engineering Human-Computer Interaction Arts",
+      "label": "Engineering Human-Computer Interaction Arts"
+    },
+    {
+      "value": "Engineering Virtual Environments Arts",
+      "label": "Engineering Virtual Environments Arts"
+    },
+    {
+      "value": "Engineering Simulated Worlds Arts",
+      "label": "Engineering Simulated Worlds Arts"
+    },
+    {
+      "value": "Engineering Digital Art Arts",
+      "label": "Engineering Digital Art Arts"
+    },
+    {
+      "value": "Engineering Computer Graphics Arts",
+      "label": "Engineering Computer Graphics Arts"
+    },
+    {
+      "value": "Engineering Computational Art Arts",
+      "label": "Engineering Computational Art Arts"
+    },
+    {
+      "value": "Engineering Creative Coding Arts",
+      "label": "Engineering Creative Coding Arts"
+    },
+    {
+      "value": "Engineering Interactive Media Arts",
+      "label": "Engineering Interactive Media Arts"
+    },
+    {
+      "value": "Engineering Sound Design Arts",
+      "label": "Engineering Sound Design Arts"
+    },
+    {
+      "value": "Engineering Music Production Arts",
+      "label": "Engineering Music Production Arts"
+    },
+    {
+      "value": "Engineering Film Production Arts",
+      "label": "Engineering Film Production Arts"
+    },
+    {
+      "value": "Engineering Photography Production Arts",
+      "label": "Engineering Photography Production Arts"
+    },
+    {
+      "value": "Engineering Theater Production Arts",
+      "label": "Engineering Theater Production Arts"
+    },
+    {
+      "value": "Engineering Dance Production Arts",
+      "label": "Engineering Dance Production Arts"
+    },
+    {
+      "value": "Engineering Fine Arts Arts",
+      "label": "Engineering Fine Arts Arts"
+    },
+    {
+      "value": "Engineering Literature and Music Arts",
+      "label": "Engineering Literature and Music Arts"
+    },
+    {
+      "value": "Engineering Visual Arts Arts",
+      "label": "Engineering Visual Arts Arts"
+    },
+    {
+      "value": "Engineering Audio Arts Arts",
+      "label": "Engineering Audio Arts Arts"
+    },
+    {
+      "value": "Engineering Video Arts Arts",
+      "label": "Engineering Video Arts Arts"
+    },
+    {
+      "value": "Engineering Film Arts Arts",
+      "label": "Engineering Film Arts Arts"
+    },
+    {
+      "value": "Engineering Photography Arts Arts",
+      "label": "Engineering Photography Arts Arts"
+    },
+    {
+      "value": "Engineering Theater Arts Arts",
+      "label": "Engineering Theater Arts Arts"
+    },
+    {
+      "value": "Engineering Dance Arts Arts",
+      "label": "Engineering Dance Arts Arts"
+    },
+    {
+      "value": "Engineering Literary Arts Arts",
+      "label": "Engineering Literary Arts Arts"
+    },
+    {
+      "value": "Engineering Visual Arts and Music Arts",
+      "label": "Engineering Visual Arts and Music Arts"
+    },
+    {
+      "value": "Engineering Audio and Video Arts Arts",
+      "label": "Engineering Audio and Video Arts Arts"
+    },
+    {
+      "value": "Engineering Film and Photography Arts Arts",
+      "label": "Engineering Film and Photography Arts Arts"
+    },
+    {
+      "value": "Engineering Theater and Dance Arts Arts",
+      "label": "Engineering Theater and Dance Arts Arts"
+    },
+    {
+      "value": "Engineering Literature and Fine Arts Arts",
+      "label": "Engineering Literature and Fine Arts Arts"
+    },
+    {
+      "value": "Engineering Visual and Audio Arts Arts",
+      "label": "Engineering Visual and Audio Arts Arts"
+    },
+    {
+      "value": "Engineering Computer Arts Arts",
+      "label": "Engineering Computer Arts Arts"
+    },
+    {
+      "value": "Engineering Multimedia Arts Arts",
+      "label": "Engineering Multimedia Arts Arts"
+    },
+    {
+      "value": "Engineering Game Arts Arts",
+      "label": "Engineering Game Arts Arts"
+    },
+    {
+      "value": "Engineering Virtual Arts Arts",
+      "label": "Engineering Virtual Arts Arts"
+    },
+    {
+      "value": "Engineering Augmented Arts Arts",
+      "label": "Engineering Augmented Arts Arts"
+    },
+    {
+      "value": "Engineering Motion Arts Arts",
+      "label": "Engineering Motion Arts Arts"
+    },
+    {
+      "value": "Engineering 3D Arts Arts",
+      "label": "Engineering 3D Arts Arts"
+    },
+    {
+      "value": "Engineering Simulation Arts Arts",
+      "label": "Engineering Simulation Arts Arts"
+    },
+    {
+      "value": "Engineering Data Arts Arts",
+      "label": "Engineering Data Arts Arts"
+    },
+    {
+      "value": "Engineering Interaction Arts Arts",
+      "label": "Engineering Interaction Arts Arts"
+    },
+    {
+      "value": "Engineering Virtual World Arts Arts",
+      "label": "Engineering Virtual World Arts Arts"
+    },
+    {
+      "value": "Engineering Digital Media Arts Arts",
+      "label": "Engineering Digital Media Arts Arts"
+    },
+    {
+      "value": "Engineering Computer Game Arts Arts",
+      "label": "Engineering Computer Game Arts Arts"
+    },
+    {
+      "value": "Engineering Virtual Reality Arts Arts",
+      "label": "Engineering Virtual Reality Arts Arts"
+    },
+    {
+      "value": "Engineering Augmented Reality Arts Arts",
+      "label": "Engineering Augmented Reality Arts Arts"
+    },
+    {
+      "value": "Engineering Motion Graphics Arts Arts",
+      "label": "Engineering Motion Graphics Arts Arts"
+    },
+    {
+      "value": "Engineering 3D Modeling Arts Arts",
+      "label": "Engineering 3D Modeling Arts Arts"
+    },
+    {
+      "value": "Engineering Simulation Modeling Arts Arts",
+      "label": "Engineering Simulation Modeling Arts Arts"
+    },
+    {
+      "value": "Engineering Data Visualization Arts Arts",
+      "label": "Engineering Data Visualization Arts Arts"
+    },
+    {
+      "value": "Engineering Human-Computer Interaction Arts Arts",
+      "label": "Engineering Human-Computer Interaction Arts Arts"
+    },
+    {
+      "value": "Engineering Virtual Environments Arts Arts",
+      "label": "Engineering Virtual Environments Arts Arts"
+    },
+    {
+      "value": "Engineering Simulated Worlds Arts Arts",
+      "label": "Engineering Simulated Worlds Arts Arts"
+    },
+    {
+      "value": "Engineering Digital Art Arts Arts",
+      "label": "Engineering Digital Art Arts Arts"
+    },
+    {
+      "value": "Engineering Computer Graphics Arts Arts",
+      "label": "Engineering Computer Graphics Arts Arts"
+    },
+    {
+      "value": "Engineering Computational Art Arts Arts",
+      "label": "Engineering Computational Art Arts Arts"
+    },
+    {
+      "value": "Engineering Creative Coding Arts Arts",
+      "label": "Engineering Creative Coding Arts Arts"
+    },
+    {
+      "value": "Engineering Interactive Media Arts Arts",
+      "label": "Engineering Interactive Media Arts Arts"
+    },
+    {
+      "value": "Engineering Sound Design Arts Arts",
+      "label": "Engineering Sound Design Arts Arts"
+    },
+    {
+      "value": "Engineering Music Production Arts Arts",
+      "label": "Engineering Music Production Arts Arts"
+    },
+    {
+      "value": "Engineering Film Production Arts Arts",
+      "label": "Engineering Film Production Arts Arts"
+    },
+    {
+      "value": "Engineering Photography Production Arts Arts",
+      "label": "Engineering Photography Production Arts Arts"
+    },
+    {
+      "value": "Engineering Theater Production Arts Arts",
+      "label": "Engineering Theater Production Arts Arts"
+    },
+    {
+      "value": "Engineering Dance Production Arts Arts",
+      "label": "Engineering Dance Production Arts Arts"
+    },
+    {
+      "value": "Engineering Fine Arts Arts Arts",
+      "label": "Engineering Fine Arts Arts Arts"
+    },
+    {
+      "value": "Engineering Literature and Music Arts Arts",
+      "label": "Engineering Literature and Music Arts Arts"
+    },
+    {
+      "value": "Engineering Visual Arts Arts Arts",
+      "label": "Engineering Visual Arts Arts Arts"
+    },
+    {
+      "value": "Engineering Audio Arts Arts",
+      "label": "Engineering Audio Arts Arts"
+    },
+    {
+      "value": "Engineering Video Arts Arts",
+      "label": "Engineering Video Arts Arts"
+    },
+    {
+      "value": "Engineering Film Arts Arts",
+      "label": "Engineering Film Arts Arts"
+    },
+    {
+      "value": "Engineering Photography Arts Arts",
+      "label": "Engineering Photography Arts Arts"
+    },
+    {
+      "value": "Engineering Theater Arts Arts",
+      "label": "Engineering Theater Arts Arts"
+    },
+    {
+      "value": "Engineering Dance Arts Arts",
+      "label": "Engineering Dance Arts Arts"
+    },
+    {
+      "value": "Engineering Literary Arts Arts",
+      "label": "Engineering Literary Arts Arts"
+    },
+    {
+      "value": "Engineering Visual Arts and Music Arts Arts",
+      "label": "Engineering Visual Arts and Music Arts Arts"
+    },
+    {
+      "value": "Engineering Audio and Video Arts Arts",
+      "label": "Engineering Audio and Video Arts Arts"
+    },
+    {
+      "value": "Engineering Film and Photography Arts Arts",
+      "label": "Engineering Film and Photography Arts Arts"
+    },
+    {
+      "value": "Engineering Theater and Dance Arts Arts",
+      "label": "Engineering Theater and Dance Arts Arts"
+    },
+    {
+      "value": "Engineering Literature and Fine Arts Arts Arts",
+      "label": "Engineering Literature and Fine Arts Arts Arts"
+    },
+    {
+      "value": "Engineering Visual and Audio Arts Arts Arts",
+      "label": "Engineering Visual and Audio Arts Arts Arts"
+    },
+    {
+      "value": "Engineering Computer Arts Arts Arts",
+      "label": "Engineering Computer Arts Arts Arts"
+    },
+    {
+      "value": "Engineering Multimedia Arts Arts Arts",
+      "label": "Engineering Multimedia Arts Arts Arts"
+    },
+    {
+      "value": "Engineering Game Arts Arts Arts",
+      "label": "Engineering Game Arts Arts Arts"
+    },
+    {
+      "value": "Engineering Virtual Arts Arts Arts",
+      "label": "Engineering Virtual Arts Arts Arts"
+    },
+    {
+      "value": "Engineering Augmented Arts Arts Arts",
+      "label": "Engineering Augmented Arts Arts Arts"
+    },
+    {
+      "value": "Engineering Motion Arts Arts Arts",
+      "label": "Engineering Motion Arts Arts Arts"
+    },
+    {
+      "value": "Engineering 3D Arts Arts Arts",
+      "label": "Engineering 3D Arts Arts Arts"
+    },
+    {
+      "value": "Engineering Simulation Arts Arts Arts",
+      "label": "Engineering Simulation Arts Arts Arts"
+    },
+    {
+      "value": "Engineering Data Arts Arts Arts",
+      "label": "Engineering Data Arts Arts Arts"
+    },
+    {
+      "value": "Engineering Interaction Arts Arts Arts",
+      "label": "Engineering Interaction Arts Arts Arts"
+    },
+    {
+      "value": "Engineering Virtual World Arts Arts Arts",
+      "label": "Engineering Virtual World Arts Arts Arts"
+    },
+    {
+      "value": "Engineering Digital Media Arts Arts Arts",
+      "label": "Engineering Digital Media Arts Arts Arts"
+    },
+    {
+      "value": "Engineering Computer Game Arts Arts Arts",
+      "label": "Engineering Computer Game Arts Arts Arts"
+    },
+    {
+      "value": "Engineering Virtual Reality Arts Arts Arts",
+      "label": "Engineering Virtual Reality Arts Arts Arts"
+    },
+    {
+      "value": "Engineering Augmented Reality Arts Arts Arts",
+      "label": "Engineering Augmented Reality Arts Arts Arts"
+    },
+    {
+      "value": "Engineering Motion Graphics Arts Arts Arts",
+      "label": "Engineering Motion Graphics Arts Arts Arts"
+    },
+    {
+      "value": "Engineering 3D Modeling Arts Arts Arts",
+      "label": "Engineering 3D Modeling Arts Arts Arts"
+    },
+    {
+      "value": "Engineering Simulation Modeling Arts Arts Arts",
+      "label": "Engineering Simulation Modeling Arts Arts Arts"
+    },
+    {
+      "value": "Engineering Data Visualization Arts Arts Arts",
+      "label": "Engineering Data Visualization Arts Arts Arts"
+    },
+    {
+      "value": "Engineering Human-Computer Interaction Arts Arts Arts",
+      "label": "Engineering Human-Computer Interaction Arts Arts Arts"
+    },
+    {
+      "value": "Engineering Virtual Environments Arts Arts Arts",
+      "label": "Engineering Virtual Environments Arts Arts Arts"
+    },
+    {
+      "value": "Engineering Simulated Worlds Arts Arts Arts",
+      "label": "Engineering Simulated Worlds Arts Arts Arts"
+    },
+    {
+      "value": "Engineering Digital Art Arts Arts Arts",
+      "label": "Engineering Digital Art Arts Arts Arts"
+    },
+    {
+      "value": "Engineering Computer Graphics Arts Arts Arts",
+      "label": "Engineering Computer Graphics Arts Arts Arts"
+    },
+    {
+      "value": "Engineering Computational Art Arts Arts",
+      "label": "Engineering Computational Art Arts Arts"
+    },
+    {
+      "value": "Engineering Creative Coding Arts Arts Arts",
+      "label": "Engineering Creative Coding Arts Arts Arts"
+    },
+    {
+      "value": "Engineering Interactive Media Arts Arts Arts",
+      "label": "Engineering Interactive Media Arts Arts Arts"
+    },
+    {
+      "value": "Engineering Sound Design Arts Arts Arts",
+      "label": "Engineering Sound Design Arts Arts Arts"
+    },
+    {
+      "value": "Engineering Music Production Arts Arts Arts",
+      "label": "Engineering Music Production Arts Arts Arts"
+    },
+    {
+      "value": "Engineering Film Production Arts Arts Arts",
+      "label": "Engineering Film Production Arts Arts Arts"
+    },
+    {
+      "value": "Engineering Photography Production Arts Arts Arts",
+      "label": "Engineering Photography Production Arts Arts Arts"
+    },
+    {
+      "value": "Engineering Theater Production Arts Arts Arts",
+      "label": "Engineering Theater Production Arts Arts Arts"
+    },
+    {
+      "value": "Engineering Dance Production Arts Arts Arts",
+      "label": "Engineering Dance Production Arts Arts Arts"
+    },
+    {
+      "value": "Engineering Fine Arts Arts Arts Arts",
+      "label": "Engineering Fine Arts Arts Arts Arts"
+    }
+]
+  

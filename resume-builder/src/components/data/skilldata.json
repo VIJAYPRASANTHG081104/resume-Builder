@@ -1,0 +1,515 @@
+[
+    {
+      "value": "problem solving",
+      "label": "Problem Solving"
+    },
+    {
+      "value": "programming",
+      "label": "Programming"
+    },
+    {
+      "value": "web development",
+      "label": "Web Development"
+    },
+    {
+      "value": "data analysis",
+      "label": "Data Analysis"
+    },
+    {
+      "value": "machine learning",
+      "label": "Machine Learning"
+    },
+    {
+      "value": "software engineering",
+      "label": "Software Engineering"
+    },
+    {
+      "value": "database management",
+      "label": "Database Management"
+    },
+    {
+      "value": "networking",
+      "label": "Networking"
+    },
+    {
+      "value": "cybersecurity",
+      "label": "Cybersecurity"
+    },
+    {
+      "value": "cloud computing",
+      "label": "Cloud Computing"
+    },
+    {
+      "value": "mobile app development",
+      "label": "Mobile App Development"
+    },
+    {
+      "value": "system administration",
+      "label": "System Administration"
+    },
+    {
+      "value": "data science",
+      "label": "Data Science"
+    },
+    {
+      "value": "front-end development",
+      "label": "Front-End Development"
+    },
+    {
+      "value": "back-end development",
+      "label": "Back-End Development"
+    },
+    {
+      "value": "artificial intelligence",
+      "label": "Artificial Intelligence"
+    },
+    {
+      "value": "natural language processing",
+      "label": "Natural Language Processing"
+    },
+    {
+      "value": "computer vision",
+      "label": "Computer Vision"
+    },
+    {
+      "value": "game development",
+      "label": "Game Development"
+    },
+    {
+      "value": "algorithm design",
+      "label": "Algorithm Design"
+    },
+    {
+      "value": "data engineering",
+      "label": "Data Engineering"
+    },
+    {
+      "value": "UI/UX design",
+      "label": "UI/UX Design"
+    },
+    {
+      "value": "mobile game development",
+      "label": "Mobile Game Development"
+    },
+    {
+      "value": "embedded systems",
+      "label": "Embedded Systems"
+    },
+    {
+      "value": "IoT development",
+      "label": "IoT Development"
+    },
+    {
+      "value": "devOps",
+      "label": "DevOps"
+    },
+    {
+      "value": "big data",
+      "label": "Big Data"
+    },
+    {
+      "value": "blockchain development",
+      "label": "Blockchain Development"
+    },
+    {
+      "value": "cloud architecture",
+      "label": "Cloud Architecture"
+    },
+    {
+      "value": "robotics",
+      "label": "Robotics"
+    },
+    {
+      "value": "virtual reality",
+    "label": "Virtual Reality"
+  },
+  {
+    "value": "augmented reality",
+    "label": "Augmented Reality"
+  },
+  {
+    "value": "quantum computing",
+    "label": "Quantum Computing"
+  },
+  {
+    "value": "game design",
+    "label": "Game Design"
+  },
+  {
+    "value": "microservices",
+    "label": "Microservices"
+  },
+  {
+    "value": "containerization",
+    "label": "Containerization"
+  },
+  {
+    "value": "data visualization",
+    "label": "Data Visualization"
+  },
+  {
+    "value": "ethical hacking",
+    "label": "Ethical Hacking"
+  },
+  {
+    "value": "agile methodology",
+    "label": "Agile Methodology"
+  },
+  {
+    "value": "user research",
+    "label": "User Research"
+  },
+  {
+    "value": "version control",
+    "label": "Version Control"
+  },
+  {
+    "value": "test automation",
+    "label": "Test Automation"
+  },
+  {
+    "value": "continuous integration",
+    "label": "Continuous Integration"
+  },
+  {
+    "value": "data mining",
+    "label": "Data Mining"
+  },
+  {
+    "value": "software testing",
+    "label": "Software Testing"
+  },
+  {
+    "value": "mobile app design",
+    "label": "Mobile App Design"
+  },
+  {
+    "value": "databases",
+    "label": "Databases"
+  },
+  {
+    "value": "cloud services",
+    "label": "Cloud Services"
+  },
+  {
+    "value": "API design",
+    "label": "API Design"
+  },
+  {
+    "value": "responsive web design",
+    "label": "Responsive Web Design"
+  },
+  {
+    "value": "system architecture",
+    "label": "System Architecture"
+  },
+  {
+    "value": "data security",
+    "label": "Data Security"
+  },
+  {
+    "value": "full-stack development",
+    "label": "Full-Stack Development"
+  },
+  {
+    "value": "front-end frameworks",
+    "label": "Front-End Frameworks"
+  },
+  {
+    "value": "back-end frameworks",
+    "label": "Back-End Frameworks"
+  },
+  {
+    "value": "embedded programming",
+    "label": "Embedded Programming"
+  },
+  {
+    "value": "Linux administration",
+    "label": "Linux Administration"
+  },
+  {
+    "value": "container orchestration",
+    "label": "Container Orchestration"
+  },
+  {
+    "value": "cloud security",
+    "label": "Cloud Security"
+  },
+  {
+    "value": "data warehousing",
+    "label": "Data Warehousing"
+  },
+  {
+    "value": "system integration",
+    "label": "System Integration"
+  },
+  {
+    "value": "web security",
+    "label": "Web Security"
+  },
+  {
+    "value": "mobile security",
+    "label": "Mobile Security"
+  },
+  {
+    "value": "network security",
+    "label": "Network Security"
+  },
+  {
+    "value": "data ethics",
+    "label": "Data Ethics"
+  },
+  {
+    "value": "software architecture",
+    "label": "Software Architecture"
+  },
+  {
+    "value": "cloud-native development",
+    "label": "Cloud-Native Development"
+  },
+  {
+    "value": "scalability",
+    "label": "Scalability"
+  },
+  {
+    "value": "coding standards",
+    "label": "Coding Standards"
+  },
+  {
+    "value": "debugging",
+    "label": "Debugging"
+  },
+  {
+    "value": "data modeling",
+    "label": "Data Modeling"
+  },
+  {
+    "value": "functional programming",
+    "label": "Functional Programming"
+  },
+  {
+    "value": "real-time systems",
+    "label": "Real-Time Systems"
+  },
+  {
+    "value": "software development methodologies",
+    "label": "Software Development Methodologies"
+  },
+  {
+    "value": "API integration",
+    "label": "API Integration"
+  },
+  {
+    "value": "web APIs",
+    "label": "Web APIs"
+  },
+  {
+    "value": "cross-platform development",
+    "label": "Cross-Platform Development"
+  },
+  {
+    "value": "game engine development",
+    "label": "Game Engine Development"
+  },
+  {
+    "value": "cloud deployment",
+    "label": "Cloud Deployment"
+  },
+  {
+    "value": "network protocols",
+    "label": "Network Protocols"
+  },
+  {
+    "value": "Linux shell scripting",
+    "label": "Linux Shell Scripting"
+  },
+  {
+    "value": "container security",
+    "label": "Container Security"
+  },
+  {
+    "value": "data analytics",
+    "label": "Data Analytics"
+  },
+  {
+    "value": "virtualization",
+    "label": "Virtualization"
+  },
+  {
+    "value": "data governance",
+    "label": "Data Governance"
+  },
+  {
+    "value": "mobile app security",
+    "label": "Mobile App Security"
+  },
+  {
+    "value": "cloud migration",
+    "label": "Cloud Migration"
+  },
+  {
+    "value": "data storage",
+    "label": "Data Storage"
+  },
+  {
+    "value": "API security",
+    "label": "API Security"
+  },
+  {
+    "value": "continuous delivery",
+    "label": "Continuous Delivery"
+  },
+  {
+    "value": "web development frameworks",
+    "label": "Web Development Frameworks"
+  },
+  {
+    "value": "data validation",
+    "label": "Data Validation"
+  },
+  {
+    "value": "user interface design",
+    "label": "User Interface Design"
+  },
+  {
+    "value": "software testing frameworks",
+    "label": "Software Testing Frameworks"
+  },
+  {
+    "value": "code optimization",
+    "label": "Code Optimization"
+  },
+  {
+    "value": "AI ethics",
+    "label": "AI Ethics"
+  },
+  {
+    "value": "cloud monitoring",
+    "label": "Cloud Monitoring"
+  },
+  {
+    "value": "data transformation",
+    "label": "Data Transformation"
+  },
+  {
+    "value": "container management",
+    "label": "Container Management"
+  },
+  {
+    "value": "serverless computing",
+    "label": "Serverless Computing"
+  },
+  {
+    "value": "API management",
+    "label": "API Management"
+  },
+  {
+    "value": "responsive design",
+    "label": "Responsive Design"
+  },
+  {
+    "value": "web security testing",
+    "label": "Web Security Testing"
+  },
+  {
+    "value": "mobile app testing",
+    "label": "Mobile App Testing"
+  },
+  {
+    "value": "data engineering tools",
+    "label": "Data Engineering Tools"
+  },
+  {
+    "value": "Linux command line",
+    "label": "Linux Command Line"
+  },
+  {
+    "value": "cloud governance",
+    "label": "Cloud Governance"
+  }
+  ,{
+    "value": "C",
+    "label": "C"
+  },{
+    "value": "C++",
+    "label": "C++"
+  },{
+    "value": "Python",
+    "label": "Python"
+  },{
+    "value": "Java",
+    "label": "Java"
+  },
+  {
+    "value": "JavaScript",
+    "label": "JavaScript"
+  },
+  {
+    "value": "React JS",
+    "label": "React JS"
+  },
+  {
+    "value": "Mongo DB",
+    "label": "Mongo DB"
+  },
+  {
+    "value": "SQL",
+    "label": "SQL"
+  },
+  {
+    "value": "Node JS",
+    "label": "Node JS"
+  },
+  {
+    "value": "MERN",
+    "label": "MERN"
+  },
+  {
+    "value": "Express JS",
+    "label": "Express JS"
+  },
+  {
+    "value": "CSS",
+    "label": "CSS"
+  },
+  {
+    "value": "Tailwind",
+    "label": "Tailwind"
+  },
+  {
+    "value": "Scss",
+    "label": "Scss"
+  },
+  {
+    "value": "PHP",
+    "label": "PHP"
+  },
+  {
+    "value": "HTML",
+    "label": "HTML"
+  },
+  {
+    "value": "AZURE",
+    "label": "AZURE"
+  },
+  {
+    "value": "GOOGLE CLOUD",
+    "label": "GOOGLE CLOUD"
+  },
+  {
+    "value": "Ruby",
+    "label": "Ruby"
+  },
+  {
+    "value": "Cotlin",
+    "label": "Cotlin"
+  },
+  {
+    "value": "React Native",
+    "label": "React Native"
+  },
+  {
+    "value": "Android Development",
+    "label": "Android Development"
+  }
+]

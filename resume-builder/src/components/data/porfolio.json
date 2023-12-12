@@ -1,0 +1,463 @@
+[   
+    {
+      "value": "Software Engineer",
+      "label": "Software Engineer"
+    },
+    {
+      "value": "Web Developer",
+      "label": "Web Developer"
+    },
+    {
+      "value": "Data Analyst",
+      "label": "Data Analyst"
+    },
+    {
+      "value": "Machine Learning Engineer",
+      "label": "Machine Learning Engineer"
+    },
+    {
+      "value": "Cybersecurity Expert",
+      "label": "Cybersecurity Expert"
+    },
+    {
+      "value": "Cloud Architect",
+      "label": "Cloud Architect"
+    },
+    {
+      "value": "Mobile App Developer",
+      "label": "Mobile App Developer"
+    },
+    {
+      "value": "Network Engineer",
+      "label": "Network Engineer"
+    },
+    {
+      "value": "AI Researcher",
+      "label": "AI Researcher"
+    },
+    {
+      "value": "UI/UX Designer",
+      "label": "UI/UX Designer"
+    },
+    {
+      "value": "Game Developer",
+      "label": "Game Developer"
+    },
+    {
+      "value": "Embedded Systems Specialist",
+      "label": "Embedded Systems Specialist"
+    },
+    {
+      "value": "IoT Developer",
+      "label": "IoT Developer"
+    },
+    {
+      "value": "DevOps Engineer",
+      "label": "DevOps Engineer"
+    },
+    {
+      "value": "Big Data Analyst",
+      "label": "Big Data Analyst"
+    },
+    {
+      "value": "Blockchain Developer",
+      "label": "Blockchain Developer"
+    },
+    {
+      "value": "Cloud Solutions Architect",
+      "label": "Cloud Solutions Architect"
+    },
+    {
+      "value": "Robotics Engineer",
+      "label": "Robotics Engineer"
+    },
+    {
+      "value": "VR Developer",
+      "label": "VR Developer"
+    },
+    {
+      "value": "AR Pioneer",
+      "label": "AR Pioneer"
+    },
+    {
+      "value": "Quantum Computing Enthusiast",
+      "label": "Quantum Computing Enthusiast"
+    },
+    {
+      "value": "Game Designer",
+      "label": "Game Designer"
+    },
+    {
+      "value": "Microservices Architect",
+      "label": "Microservices Architect"
+    },
+    {
+      "value": "Containerization Expert",
+      "label": "Containerization Expert"
+    },
+    {
+      "value": "Data Visualization Specialist",
+      "label": "Data Visualization Specialist"
+    },
+    {
+      "value": "Ethical Hacker",
+      "label": "Ethical Hacker"
+    },
+    {
+      "value": "Agile Practitioner",
+      "label": "Agile Practitioner"
+    },
+    {
+      "value": "User Researcher",
+      "label": "User Researcher"
+    },
+    {
+      "value": "Version Control Guru",
+      "label": "Version Control Guru"
+    },
+    {
+      "value": "Test Automation Engineer",
+      "label": "Test Automation Engineer"
+    },
+    {
+      "value": "CI/CD Champion",
+      "label": "CI/CD Champion"
+    },
+    {
+      "value": "Data Mining Expert",
+      "label": "Data Mining Expert"
+    },
+    {
+      "value": "Software Tester",
+      "label": "Software Tester"
+    },
+    {
+      "value": "Mobile App Designer",
+      "label": "Mobile App Designer"
+    },
+    {
+      "value": "Database Manager",
+      "label": "Database Manager"
+    },
+    {
+      "value": "Cloud Services Specialist",
+      "label": "Cloud Services Specialist"
+    },
+    {
+      "value": "API Designer",
+      "label": "API Designer"
+    },
+    {
+      "value": "Responsive Web Designer",
+      "label": "Responsive Web Designer"
+    },
+    {
+      "value": "System Architect",
+      "label": "System Architect"
+    },
+    {
+      "value": "Data Security Specialist",
+      "label": "Data Security Specialist"
+    },
+    {
+      "value": "Full-Stack Developer",
+      "label": "Full-Stack Developer"
+    },
+    {
+      "value": "Front-End Developer",
+      "label": "Front-End Developer"
+    },
+    {
+      "value": "Back-End Developer",
+      "label": "Back-End Developer"
+    },
+    {
+      "value": "Embedded Programmer",
+      "label": "Embedded Programmer"
+    },
+    {
+      "value": "Linux Admin",
+      "label": "Linux Admin"
+    },
+    {
+      "value": "Container Orchestration Expert",
+      "label": "Container Orchestration Expert"
+    },
+    {
+      "value": "Cloud Security Specialist",
+      "label": "Cloud Security Specialist"
+    },
+    {
+      "value": "Data Warehousing Expert",
+      "label": "Data Warehousing Expert"
+    },
+    {
+      "value": "System Integrator",
+      "label": "System Integrator"
+    },
+    {
+      "value": "Web Security Specialist",
+      "label": "Web Security Specialist"
+    },
+    {
+      "value": "Mobile Security Expert",
+      "label": "Mobile Security Expert"
+    },
+    {
+      "value": "Network Security Specialist",
+      "label": "Network Security Specialist"
+    },
+    {
+      "value": "Data Ethics Advocate",
+      "label": "Data Ethics Advocate"
+    },
+    {
+      "value": "Software Architect",
+      "label": "Software Architect"
+    },
+    {
+      "value": "Cloud-Native Developer",
+      "label": "Cloud-Native Developer"
+    },
+    {
+      "value": "Scalability Expert",
+      "label": "Scalability Expert"
+    },
+    {
+      "value": "Coding Standards Enforcer",
+      "label": "Coding Standards Enforcer"
+    },
+    {
+      "value": "Debugger",
+      "label": "Debugger"
+    },
+    {
+      "value": "Data Modeler",
+      "label": "Data Modeler"
+    },
+    {
+      "value": "Functional Programmer",
+      "label": "Functional Programmer"
+    },
+    {
+      "value": "Real-Time Systems Engineer",
+      "label": "Real-Time Systems Engineer"
+    },
+    {
+      "value": "Software Development Methodologist",
+      "label": "Software Development Methodologist"
+    },
+    {
+      "value": "API Integration Specialist",
+      "label": "API Integration Specialist"
+    },
+    {
+      "value": "Web API Developer",
+      "label": "Web API Developer"
+    },
+    {
+      "value": "Cross-Platform Developer",
+      "label": "Cross-Platform Developer"
+    },
+    {
+      "value": "Game Engine Developer",
+      "label": "Game Engine Developer"
+    },
+    {
+      "value": "Cloud Deployment Specialist",
+      "label": "Cloud Deployment Specialist"
+    },
+    {
+      "value": "Network Protocols Expert",
+      "label": "Network Protocols Expert"
+    },
+    {
+      "value": "Linux Scripter",
+      "label": "Linux Scripter"
+    },
+    {
+      "value": "Container Security Specialist",
+      "label": "Container Security Specialist"
+    },
+    {
+      "value": "Data Analytics Expert",
+      "label": "Data Analytics Expert"
+    },
+    {
+      "value": "Virtualization Specialist",
+      "label": "Virtualization Specialist"
+    },
+    {
+      "value": "Data Governance Advocate",
+      "label": "Data Governance Advocate"
+    },
+    {
+      "value": "Mobile App Security Expert",
+      "label": "Mobile App Security Expert"
+    },
+    {
+      "value": "Cloud Migration Specialist",
+      "label": "Cloud Migration Specialist"
+    },
+    {
+      "value": "Data Storage Specialist",
+      "label": "Data Storage Specialist"
+    },
+    {
+      "value": "API Security Specialist",
+      "label": "API Security Specialist"
+    },
+    {
+      "value": "Continuous Delivery Advocate",
+      "label": "Continuous Delivery Advocate"
+    },
+    {
+      "value": "Web Development Framework Specialist",
+      "label": "Web Development Framework Specialist"
+    },
+    {
+      "value": "Data Validation Expert",
+      "label": "Data Validation Expert"
+    },
+    {
+      "value": "UI Design Specialist",
+      "label": "UI Design Specialist"
+    },
+    {
+      "value": "Software Testing Framework Expert",
+      "label": "Software Testing Framework Expert"
+    },
+    {
+      "value": "Code Optimization Guru",
+      "label": "Code Optimization Guru"
+    },
+    {
+      "value": "AI Ethics Advocate",
+      "label": "AI Ethics Advocate"
+    },
+    {
+      "value": "Cloud Monitoring Specialist",
+      "label": "Cloud Monitoring Specialist"
+    },
+    {
+      "value": "Data Transformation Specialist",
+      "label": "Data Transformation Specialist"
+    },
+    {
+      "value": "Container Management Expert",
+      "label": "Container Management Expert"
+    },
+    {
+      "value": "Serverless Computing Specialist",
+      "label": "Serverless Computing Specialist"
+    },
+    {
+      "value": "API Management Expert",
+      "label": "API Management Expert"
+    },
+    {
+      "value": "Responsive Design Specialist",
+      "label": "Responsive Design Specialist"
+    },
+    {
+      "value": "Web Security Testing Specialist",
+      "label": "Web Security Testing Specialist"
+    },
+    {
+      "value": "Mobile App Testing Specialist",
+      "label": "Mobile App Testing Specialist"
+    },
+    {
+      "value": "Data Engineering Tools Expert",
+      "label": "Data Engineering Tools Expert"
+    },
+    {
+      "value": "Linux Command Line Specialist",
+      "label": "Linux Command Line Specialist"
+    },
+    {
+      "value": "Cloud Governance Expert",
+      "label": "Cloud Governance Expert"
+    },
+    {
+      "value": "Data Migration Specialist",
+      "label": "Data Migration Specialist"
+    },
+    {
+      "value": "API Documentation Specialist",
+      "label": "API Documentation Specialist"
+    },
+    {
+      "value": "Responsive Web Development Specialist",
+      "label": "Responsive Web Development Specialist"
+    },
+    {
+      "value": "Mobile App Design Tools Expert",
+      "label": "Mobile App Design Tools Expert"
+    },
+    {
+      "value": "Data Architecture Specialist",
+      "label": "Data Architecture Specialist"
+    },
+    {
+      "value": "Automated Testing Specialist",
+      "label": "Automated Testing Specialist"
+    },
+    {
+      "value": "Game Design Principles Expert",
+      "label": "Game Design Principles Expert"
+    },
+    {
+      "value": "Cloud Scalability Expert",
+      "label": "Cloud Scalability Expert"
+    },
+    {
+      "value": "Network Administration Specialist",
+      "label": "Network Administration Specialist"
+    },
+    {
+      "value": "Linux System Administration Specialist",
+      "label": "Linux System Administration Specialist"
+    },
+    {
+      "value": "Container Orchestration Tools Specialist",
+      "label": "Container Orchestration Tools Specialist"
+    },
+    {
+      "value": "Cloud Automation Expert",
+      "label": "Cloud Automation Expert"
+    },
+    {
+      "value": "Data Reporting Specialist",
+      "label": "Data Reporting Specialist"
+    },
+    {
+      "value": "API Development Specialist",
+      "label": "API Development Specialist"
+    },
+    {
+      "value": "Responsive Web Design Tools Expert",
+      "label": "Responsive Web Design Tools Expert"
+    },
+    {
+      "value": "Data Governance Frameworks Specialist",
+      "label": "Data Governance Frameworks Specialist"
+    },
+    {
+      "value": "Software Quality Assurance Specialist",
+      "label": "Software Quality Assurance Specialist"
+    },
+    {
+      "value": "Code Review Specialist",
+      "label": "Code Review Specialist"
+    },
+    {
+      "value": "AI Model Deployment Specialist",
+      "label": "AI Model Deployment Specialist"
+    },
+    {
+      "value": "Cloud Security Testing Specialist",
+      "label": "Cloud Security Testing Specialist"
+    }
+  ]
+  

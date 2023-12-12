@@ -1,0 +1,159 @@
+
+.logo p{
+  font-size: 15px;
+}
+.foot__contain{
+   /* margin-left: 200px; */
+   display: flex;
+   justify-content: center;
+   padding: 40px;
+}
+.footer{
+  background-color: #02A678;
+  margin-top: 100px;
+}
+.footer__1{
+  margin-left: 150px;
+}
+.social__links span{
+  height: 10px;
+  margin-bottom: 50px;
+}
+.logo img{
+  height: 100px;
+}
+.footer__link-title{
+  font-size: 30px;
+  color: #F4B53D;
+  margin-top: 10px;
+}
+
+.foot{
+  position: relative;
+  margin-top: 10%;
+}
+.footer__quick-links a{
+font-size: small;
+text-decoration: none;
+color: #fff;
+}
+.footer__quick-links{
+ background-color: transparent;
+}
+.list-group{
+  --bs-list-group-bg: none!important;
+}
+.icon__foot{
+  font-size: 20px;
+  background: #F4B53D;
+  border-radius: 5px;
+}
+.social__links{
+  font-size: 20px;
+}
+.form ::selection{
+  color: #fff;
+  background-color: #00dfc4;
+}
+.form{
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  /* height: 745px; */
+}
+.form h1{
+  left: 10%;
+  top: 25%;
+  width: 600px;
+  position: absolute;
+  color: #fff;
+  font-size: 70px;
+}
+#contactform{
+  height: 550px;
+  padding: 30px;
+  position: relative;
+  left: 60%;
+  top: 20%;
+}
+.inputbox{
+  position: relative;
+  width: 450px;
+}
+#message1,
+.inputbox input{
+  font-family: Bahnschrift;
+  padding: 15px 20px;
+  border: 1px solid #fff;
+  outline: none;
+  width: 100%;
+  background-color: transparent;
+  border-radius: 5px;
+  color: #fff;
+}
+.inputbox span{
+  position: absolute;
+  left: 0;
+  padding: 5px 5px;
+  pointer-events: none;
+  font-size: 1vh;
+  transition: 0.5s;
+  text-transform: uppercase;
+  color: #fff;
+  letter-spacing: 0.1em;
+}
+#message1:valid ~ #span1,
+#message1:focus ~ #span1,
+.inputbox input:valid ~ span,
+.inputbox input:focus ~ span{
+  color: #1d2b3a;
+  font-size: 0.75rem;
+  transform: translateX(20px) translateY(-20px);
+  background-color: #f4b53d;
+  border-radius: 2px;
+  /* height: 35px; */
+}
+.subbtn #btn{
+  padding: 20px;
+  position: absolute;
+  margin-top: 20px;
+  width: 130px;
+  font-size: 20px;
+  font-family: 'Bruno Ace SC', cursive;
+  outline: none;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+.subbtn #btn:hover{
+  transform: scale(1.03);
+  background-color: #f4b53d;
+}
+#message1{
+  height: 300px;
+}
+@media screen and (max-width:778px) {
+  .form .formH1{
+    display: flex;
+    flex-direction: column;
+    font-size: 38px;
+    position: relative;
+  }
+  /* .form{
+    display: flex;
+    flex-direction: column;
+  } */
+  #contactform{
+    position: relative;
+    left: 0%;
+  }
+  #contactform input{
+    width: 38vh;
+  }
+  #contactform textarea{
+    width: 38vh;
+  }
+}
